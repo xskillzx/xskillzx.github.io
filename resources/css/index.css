@@ -1,0 +1,16 @@
+* {
+  font-family: Helvetica, Arial, sand-serif;
+}
+
+h1 {
+  color: seagreen;
+}
+
+p,
+li {
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
